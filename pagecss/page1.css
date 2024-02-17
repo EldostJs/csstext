@@ -1,0 +1,110 @@
+img{
+    margin-left: 600px;
+}
+.head{
+background-color: #EDEDED;
+padding: 1.5%;
+}
+.la{
+    text-align: center;
+    margin-left: 200px;
+    margin-top: -100px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.lay{
+    text-align: center;
+    margin-top: 50px;
+}
+.no{
+    font-size: xx-large;
+}
+.lay2{
+    margin-left: 290px;
+}
+.no2{
+    width: 1000px;
+    text-align: left;
+    font-size: x-large;
+}
+.but1{
+margin-left: 600px;
+margin-top: 50px;
+}
+.previous{
+    background-color: #D64078;
+    border-radius: 5px;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+.previous2{
+    text-decoration: none;
+    color: white;
+    font-size: large; */
+}
+.but2{
+margin-left: 800px;
+margin-top: -30px;
+}
+.next{
+background-color: #D64078;
+border-radius: 5px;
+border: none;
+width: 100px;
+height: 30px;
+}
+.next2{
+text-decoration: none;
+color: white;
+font-size: large;
+}
+.list{
+    margin-left: 740px;
+    margin-top: -41px;
+}
+.list2{
+    font-size: large;
+}
+.foot{
+    background-color: #EDEDED;
+    padding: 90px;
+}
+.inst1{
+    margin-left: 550px;
+    margin-top: -70px;
+}
+.but3{
+    background-color: #D64078;
+    border-radius: 30px;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    width: 100px;
+    height: 28px;
+}
+.inst{
+    color: white;
+    text-decoration: none;
+}
+i{
+    margin-right: 5px;
+}
+.fb1{
+    margin-left: 670px;
+    margin-top: -28px;
+}
+.but4{
+    background-color: #D64078;
+    border-radius: 30px;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    border: none;
+    width: 100px;
+    height: 28px;
+}
+.fb{
+    color: white;
+    text-decoration: none;
+}
